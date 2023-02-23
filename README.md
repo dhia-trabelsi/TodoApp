@@ -1,5 +1,7 @@
 # TodoApp
 
+![todo](https://user-images.githubusercontent.com/101473782/221053330-8fd30dc3-3cc0-42df-a598-7bad7f6c009f.PNG)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
 
 ## Development server
@@ -25,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-![todo](https://user-images.githubusercontent.com/101473782/221053330-8fd30dc3-3cc0-42df-a598-7bad7f6c009f.PNG)
+
